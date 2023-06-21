@@ -53,7 +53,7 @@ update-database
 ## Routing in ASP.Net Core
 
 - Rouing following rules **_Model/action_method/View_**
-
+- 
 
 
 --- ---
